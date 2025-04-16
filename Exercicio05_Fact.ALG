@@ -1,7 +1,7 @@
 Algoritmo "semnome"
-// Disciplina   : Linguagem e Lógica de Programação
+// Disciplina   : Linguagem e LÃ³gica de ProgramaÃ§Ã£o
 // Professor   : Jailson
-// Descrição   : Descobrir o Antecessor do número
+// DescriÃ§Ã£o   : Descobrir o Antecessor do nÃºmero
 // Autor(a)    : Vinicius de A. Bonfim
 // Data atual  : 20/03/2025
 var
@@ -9,16 +9,16 @@ var
    
 inicio
    escreval("================================")
-   escreval("      ANTECESSOR DO NÚMERO      ")
+   escreval("      ANTECESSOR DO NÃšMERO      ")
    escreval("================================")
 
-   escreva("Digite um número: ")
+   escreva("Digite um nÃºmero: ")
    leia(numero)
 
    antecessor <- numero - 1
 
    escreval("================================")
-   escreval("O antecessor de ", numero, " é ", antecessor)
+   escreval("O antecessor de ", numero, " Ã© ", antecessor)
    escreval("================================")
 
 fimalgoritmo
