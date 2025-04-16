@@ -1,14 +1,14 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e LÛgica de ProgramaÁ„o]
+// Disciplina   : [Linguagem e L√≥gica de Programa√ß√£o]
 // Professor   : Jailson
-// DescriÁ„o   : C·lcular a idade em dias
+// Descri√ß√£o   : C√°lcular a idade em dias
 // Autor(a)    : Vinicius de A. Bonfim
 // Data atual  : 20/03/2025
 var
    anos, meses, dias, idadeTotal: inteiro
 inicio
    escreval("=====================================")
-   escreval("       C¡LCULO DA IDADE EM DIAS      ")
+   escreval("       C√ÅLCULO DA IDADE EM DIAS      ")
    escreval("=====================================")
 
    escreva("Digite sua idade em anos: ")
@@ -23,7 +23,7 @@ inicio
    idadeTotal <- (anos * 365) + (meses * 30) + dias
 
    escreval("=====================================")
-   escreval("Sua idade em dias È: ", idadeTotal)
+   escreval("Sua idade em dias √©: ", idadeTotal)
    escreval("=====================================")
 
 fimalgoritmo
