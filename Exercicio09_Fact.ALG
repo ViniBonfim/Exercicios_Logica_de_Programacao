@@ -1,27 +1,27 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Jailson
-// Descrição   : Cálculo de percentual dos votos
+// DescriÃ§Ã£o   : CÃ¡lculo de percentual dos votos
 // Autor(a)    : Vinicius de A. Bonfim
 // Data atual  : 20/03/2025
 var
    salarioAtual, percentual, novoSalario: real
 inicio
    escreval("========================================")
-   escreval("         CÁLCULO DE REAJUSTE SALARIAL   ")
+   escreval("         CÃLCULO DE REAJUSTE SALARIAL   ")
    escreval("========================================")
 
-   escreva("Digite o salário atual do funcionário: R$ ")
+   escreva("Digite o salÃ¡rio atual do funcionÃ¡rio: R$ ")
    leia(salarioAtual)
 
    escreva("Digite o percentual de reajuste (%): ")
    leia(percentual)
 
-   // Cálculo do novo salário
+   // CÃ¡lculo do novo salÃ¡rio
    novoSalario <- salarioAtual + (salarioAtual * percentual / 100)
 
    escreval("========================================")
-   escreval("O novo salário será: R$ ", novoSalario)
+   escreval("O novo salÃ¡rio serÃ¡: R$ ", novoSalario)
    escreval("========================================")
 
 fimalgoritmo
