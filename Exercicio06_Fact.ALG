@@ -1,14 +1,14 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e Lógica de Programação]
+// Disciplina   : [Linguagem e LÃ³gica de ProgramaÃ§Ã£o]
 // Professor   : Jailson
-// Descrição   : Cálcular a área do retângulo
+// DescriÃ§Ã£o   : CÃ¡lcular a Ã¡rea do retÃ¢ngulo
 // Autor(a)    : Vinicius de A. Bonfim
 // Data atual  : 20/03/2025
 var
    base, altura, area: real
 inicio
    escreval("================================")
-   escreval("    CÁLCULO DA ÁREA DO RETÂNGULO    ")
+   escreval("    CÃLCULO DA ÃREA DO RETÃ‚NGULO    ")
    escreval("================================")
 
    escreva("Digite o valor da base: ")
@@ -20,7 +20,7 @@ inicio
    area <- base * altura
 
    escreval("================================")
-   escreval("A área do retângulo é: ", area)
+   escreval("A Ã¡rea do retÃ¢ngulo Ã©: ", area)
    escreval("================================")
 
 fimalgoritmo
