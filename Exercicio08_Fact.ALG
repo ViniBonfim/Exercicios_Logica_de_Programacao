@@ -1,7 +1,7 @@
 Algoritmo "semnome"
-// Disciplina   : [Linguagem e LÛgica de ProgramaÁ„o]
+// Disciplina   : [Linguagem e L√≥gica de Programa√ß√£o]
 // Professor   : Jailson
-// DescriÁ„o   : C·lculo de percentual dos votos
+// Descri√ß√£o   : C√°lculo de percentual dos votos
 // Autor(a)    : Vinicius de A. Bonfim
 // Data atual  : 20/03/2025
 var
@@ -9,22 +9,22 @@ var
    percBrancos, percNulos, percValidos: real
 inicio
    escreval("==========================================")
-   escreval("       C¡LCULO DE PERCENTUAL DE VOTOS     ")
+   escreval("       C√ÅLCULO DE PERCENTUAL DE VOTOS     ")
    escreval("==========================================")
 
-   escreva("Digite o n˙mero total de eleitores: ")
+   escreva("Digite o n√∫mero total de eleitores: ")
    leia(eleitores)
 
-   escreva("Digite o n˙mero de votos brancos: ")
+   escreva("Digite o n√∫mero de votos brancos: ")
    leia(brancos)
 
-   escreva("Digite o n˙mero de votos nulos: ")
+   escreva("Digite o n√∫mero de votos nulos: ")
    leia(nulos)
 
-   escreva("Digite o n˙mero de votos v·lidos: ")
+   escreva("Digite o n√∫mero de votos v√°lidos: ")
    leia(validos)
 
-   // C·lculo dos percentuais
+   // C√°lculo dos percentuais
    percBrancos <- (brancos * 100) / eleitores
    percNulos <- (nulos * 100) / eleitores
    percValidos <- (validos * 100) / eleitores
@@ -32,7 +32,7 @@ inicio
    escreval("==========================================")
    escreval("Percentual de votos brancos: ", percBrancos, "%")
    escreval("Percentual de votos nulos: ", percNulos, "%")
-   escreval("Percentual de votos v·lidos: ", percValidos, "%")
+   escreval("Percentual de votos v√°lidos: ", percValidos, "%")
    escreval("==========================================")
 
 fimalgoritmo
