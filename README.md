@@ -57,4 +57,28 @@ Este repositório contém a coleção de **exercícios práticos** feitos a part
 ## ⚙️ **Como Executar os Exercícios**
 
 1. **Clone este repositório** ou **faça o download** dos arquivos.
-2. Abra
+2. Abra o **VisualG** ou outro ambiente de desenvolvimento de Portugol.
+3. **Importe o arquivo** desejado para o ambiente.
+4. Modifique os valores de entrada ou ajuste as condições conforme necessário.
+5. Execute o código para verificar os resultados.
+
+---
+
+## 📚 **Tecnologias e Ferramentas Utilizadas**
+
+- **Portugol** (linguagem de programação usada nos exercícios)
+- **VisualG** (IDE para desenvolvimento em Portugol)
+
+---
+
+## 🎯 **Objetivos Pessoais e Aprendizados**
+
+Este repositório representa um passo importante no meu aprendizado de **lógica de programação** e **estruturas de controle**. Além disso, estou aprimorando minhas habilidades no uso de **Git** para gerenciar meus projetos e contribuir para o desenvolvimento de algoritmos eficientes.
+
+Se você estiver começando com **Portugol** ou quiser revisar conceitos de repetição e lógica, esse repositório pode ser útil como referência de exercícios e soluções.
+
+---
+
+## 📬 **Contato**
+
+Caso tenha dúvidas ou sugestões sobre os exercícios, sinta-se à vontade para entrar em contato ou contribuir com este repositório!
