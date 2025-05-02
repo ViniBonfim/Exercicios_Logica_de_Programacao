@@ -1,7 +1,4 @@
 # Exercícios de Portugol - Apostila Manzano
-![GIF de lógica de programação]([https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif))
-
-> 💡 **“A lógica é a base da programação, e a prática é a chave do domínio.”**
 
 Este repositório contém a coleção de **exercícios práticos** feitos a partir da apostila de **Portugol Estruturado** de **Manzano**. Ao longo dessas listas, explorei as principais estruturas de controle de fluxo e conceitos fundamentais de **algoritmos**. Cada exercício tem como objetivo **reforçar o entendimento sobre estruturas de repetição e lógica de programação**.
 
